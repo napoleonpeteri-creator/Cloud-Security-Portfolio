@@ -79,9 +79,10 @@ I continuously build enterprise-style projects to strengthen both my technical s
 # Certifications
 
 - CompTIA Security+
-- CompTIA Network+
 - Cisco Cybersecurity
 - Microsoft Applied Skills (In Progress)
+- Splunk admin enterprise ( In progress)
+- Splunk power User (In progress)
 
 ---
 
