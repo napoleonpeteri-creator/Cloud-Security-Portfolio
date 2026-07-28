@@ -4,7 +4,7 @@
 
 ### Azure • Splunk Enterprise • AWS • Microsoft Entra ID • Cybersecurity
 
-Building enterprise cloud security solutions through hands-on projects and enterprise documentation.
+Building enterprise cloud infrastructure, security, and Splunk Enterprise administration solutions through hands-on projects and real-world implementation documentation
 
 </p>
 
@@ -73,14 +73,61 @@ I continuously build enterprise-style projects to strengthen both my technical s
 
 # Featured Projects
 
-| Project | Description | Status |
-|----------|-------------|--------|
-| AZ-500 Secure Networking Lab | Azure Virtual Networks, NSGs, ASGs, Secure VM Deployment | 🚧 In Progress |
-| Enterprise Splunk Administration Lab | Enterprise deployment, forwarders, data onboarding, configuration management, Indexing, search heads, and administration  | in progress |
-| AWS RDS Database Deployment Lab | Deploying and Securing Amazon RDS | ✅ Completed |
-| Microsoft Entra ID Device Onboarding | Secure Device Registration and Identity Management | ✅ Completed |
-| Network Intrusion Detection System | Python-based IDS Project | ✅ Completed |
-| Network Sniffer | Python Packet Capture and Analysis | ✅ Completed |
+
+## Microsoft Azure
+
+ *AZ-500 Secure Networking Lab*
+
+Enterprise implementation of Azure Virtual Networks, Network Security Groups (NSGs), Application Security Groups (ASGs), subnet segmentation, secure virtual machine deployment, and enterprise documentation.
+
+*Status:*  In Progress
+
+---
+
+## Splunk Enterprise
+
+ *Splunk Enterprise Administration Lab*
+
+Enterprise administration covering deployment, forwarders, data onboarding, index management, knowledge objects, configuration management, monitoring console, and enterprise troubleshooting.
+
+*Status:*  In Progress
+
+---
+
+## Amazon Web Services (AWS)
+
+*AWS RDS Database Deployment Lab*
+
+Deploying and securing Amazon Relational Database Service (RDS) using enterprise best practices.
+
+*Status:* ✅ Completed
+
+---
+
+## Microsoft Entra ID
+
+*Device Onboarding Lab*
+
+Enterprise device onboarding, identity management, and secure device registration using Microsoft Entra ID.
+
+*Status:* ✅ Completed
+
+---
+
+## Networking
+
+*Network Intrusion Detection System*
+
+Python-based intrusion detection system for analysing network traffic and detecting suspicious activity.
+
+*Status:* ✅ Completed
+
+---
+ *Network Sniffer*
+
+Python-based packet capture and traffic analysis tool.
+
+*Status:* ✅ Completed
 
 ---
 
