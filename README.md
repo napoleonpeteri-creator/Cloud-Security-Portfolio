@@ -76,17 +76,19 @@ I continuously build enterprise-style projects to strengthen both my technical s
 
 ## Microsoft Azure
 
- *AZ-500 Secure Networking Lab*
+[AZ-500 Secure Networking Lab](https://github.com/napoleonpeteri-creator/AZ-500-Secure-Networking-Lab)
 
 Enterprise implementation of Azure Virtual Networks, Network Security Groups (NSGs), Application Security Groups (ASGs), subnet segmentation, secure virtual machine deployment, and enterprise documentation.
 
 *Status:*  In Progress
+ 
 
 ---
 
 ## Splunk Enterprise
 
- *Splunk Enterprise Administration Lab*
+ 
+ ###  [Splunk Enterprise Administration Lab](https://github.com/napoleonpeteri-creator/Splunk-soc-lab-Monitoring)
 
 Enterprise administration covering deployment, forwarders, data onboarding, index management, knowledge objects, configuration management, monitoring console, and enterprise troubleshooting.
 
@@ -96,7 +98,8 @@ Enterprise administration covering deployment, forwarders, data onboarding, inde
 
 ## Amazon Web Services (AWS)
 
-*AWS RDS Database Deployment Lab*
+
+### [AWS RDS Database Deployment Lab](https://github.com/napoleonpeteri-creator/AWS-RDS-Database-Deployment-Lab)
 
 Deploying and securing Amazon Relational Database Service (RDS) using enterprise best practices.
 
@@ -106,7 +109,7 @@ Deploying and securing Amazon Relational Database Service (RDS) using enterprise
 
 ## Microsoft Entra ID
 
-*Device Onboarding Lab*
+### [Entra ID Device Onboarding Lab](https://github.com/napoleonpeteri-creator/Entra_Id_Device_Onboarding-Lab)
 
 Enterprise device onboarding, identity management, and secure device registration using Microsoft Entra ID.
 
